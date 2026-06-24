@@ -37,7 +37,7 @@ git clone https://github.com/rechinthalavinay-cloud/Language_Translator.git
 ### 2. Navigate to the project folder
 
 ```bash
-cd CodeAlpha_Language_Translator
+cd Language_Translator
 ```
 
 ### 3. Install dependencies
